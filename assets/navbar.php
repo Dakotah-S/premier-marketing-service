@@ -19,6 +19,18 @@
         </li>
 
         <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="<?php echo BASE_URL; ?>views/marketing.php">Marketing And Advertising</a>
+        </li>
+      
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="<?php echo BASE_URL; ?>views/seo.php">SEO</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="<?php echo BASE_URL; ?>views/software-dev.php">Software Development</a>
+        </li>
+
+        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="<?php echo BASE_URL; ?>views/about-us.php">About Us</a>
         </li>
       </ul>
